@@ -1,0 +1,14 @@
+.content-container {
+    display: flex;
+}
+
+.w3-container {
+    flex: 1;
+}
+
+h1{
+    color: rgb(250, 64, 135);
+    font-family: 'Times New Roman', Arial, sans-serif;
+    background-color: white;
+}
+body {background-color: pink;} 
